@@ -319,6 +319,11 @@ This section outlines real-world issues encountered while deploying containerize
 - Document every fix to build a recruiter-facing transparency section.
 
 ---
+## Note :-I have uploaded a video recently for my cloud billing dashboard(it is demo.mp4 dont go to .gitattributes and download the video to see the video).
+## HERE ONE MORE CHALLENGE I WAS FACING WAS TO UPLOAD A VIDEO OF MP4 WHICH IS 286 MB THE GITHUB LIMIT IS 100MB AND IF IT EXCEEDS 100 MB THEN WE WILL NOT BE ABLE TO UPLOAD SO WE HAVE TO INSTALL GIT LFS FOR UPLOADING LARGE VIDEO FILES.
+- HERE WE CAN CHECK THE SIZE OF OUR VIDEO FILE BY USING du -h in gitbash.THE below figure shows that the file size of demo.mp4 is 286M
+- <img width="1481" height="284" alt="Screenshot 2025-11-02 074515" src="https://github.com/user-attachments/assets/ccee6941-4377-4d9d-9ac8-3f49360dba21" />
+
 
 ## 🏗️ **Architecture Diagram(figure 1)**
 
